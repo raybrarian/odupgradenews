@@ -132,7 +132,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
   .footer {display:none;}
-</style>
 
 *,
 *::before,
@@ -303,3 +302,5 @@ time {
     border-color: transparent #F45B69 transparent transparent;
   }
 }
+
+</style>
