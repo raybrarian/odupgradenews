@@ -1,10 +1,12 @@
 ## Oregon Digital Upgrade 
 ### Context 
 ### Features List
-* Community Participation *
+- Community Participation
+
 ### Report outs
-* Stakeholder Reports *
-* Conference Presentations / Demonstrations *
+- Stakeholder Reports
+- Conference Presentations / Demonstrations
+
 ### Team Members
 ### High-level Roadmap and Schedule
 
