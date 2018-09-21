@@ -143,8 +143,7 @@ a:hover { text-decoration: underline; }
 
 body {
   font: normal 16px/1.5 "Helvetica Neue", sans-serif;
-  background: #456990;
-  color: #fff;
+  color: #gray;
   overflow-x: hidden;
   padding-bottom: 50px;
 }  /* INTRO SECTION
