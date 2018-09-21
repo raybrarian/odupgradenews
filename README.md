@@ -1,14 +1,20 @@
 ## Oregon Digital Upgrade 
+
 ### Context 
-### Features List
+A short paragraph with perhaps a [link](http://oregondigital.org) or two.
+
+### Features list
 - Community Participation
 
 ### Report outs
 - Stakeholder Reports
+
 - Conference Presentations / Demonstrations
 
-### Team Members
-### High-level Roadmap and Schedule
+### Team members
+So many at this point.
+
+### High-level roadmap and schedule
 
 
 
