@@ -57,6 +57,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 --->
 
+<style type='text/css'>
+  a { text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .footer {display:none;}
+</style>
+
 <section class="intro">
   <div class="container">
     <h1>Vertical Timeline &darr;</h1>
@@ -129,9 +135,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 </section>
 
 <style type='text/css'>
-a { text-decoration: none; }
-a:hover { text-decoration: underline; }
-  .footer {display:none;}
 
 *,
 *::before,
