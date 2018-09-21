@@ -1,7 +1,4 @@
----
-title: This is my title
-layout: post
----
+% Document Title
 
 ## Welcome to GitHub Pages
 
