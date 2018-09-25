@@ -1,6 +1,6 @@
-## Oregon Digital Upgrade 
+## Oregon Digital Upgrade
 
-### Context 
+### Context
 A short paragraph with perhaps a [link](http://oregondigital.org) or two.
 
 ### Features list
@@ -63,7 +63,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
   .footer {display:none;}
 </style>
 
-<section class="intro">
+<!--section class="intro">
   <div class="container">
     <h1>Vertical Timeline &darr;</h1>
   </div>
@@ -132,7 +132,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
       </div>
     </li>
   </ul>
-</section>
+</section-->
 
 <style type='text/css'>
 
@@ -307,7 +307,7 @@ time {
 
 </style>
 
-    <script type="text/javascript">
+<!--script type="text/javascript">
 
 (function() {
 
@@ -343,4 +343,4 @@ time {
 
 })();
 
-</script>
+</script-->
