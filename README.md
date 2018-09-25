@@ -85,11 +85,11 @@ Many at this point.
       </div>
     </li>
   </ul>
-</section-->
+</section>
 
 
 
-<!--script type="text/javascript">
+<script type="text/javascript">
 
 (function() {
 
