@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-@import url('https://fonts.googleapis.com/css?family=Lato,LatoBold,PT+Serif:400,400i,700,700i');
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|PT+Serif:400,400i,700,700i');
 
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
@@ -23,6 +23,7 @@ body {
   text-rendering: optimizeLegibility;
   font-weight: normal;
   color: #gray;
+  background-color: #fafafa;
   overflow-x: hidden;
   padding-bottom: 50px;
 }  /* INTRO SECTION
@@ -182,7 +183,7 @@ time {
 }
 
 a {
-  background-color: silver;
+  /*background-color: silver;*/
 }
 
 .markdown-body {
@@ -190,6 +191,6 @@ a {
   background-color: #fafafa;
 }
 
-.markdown-p {
+.markdown-body p {
   font-family: 'PT Serif', serif;
 }
