@@ -4,11 +4,12 @@
 A short paragraph with perhaps a [link](http://oregondigital.org) or two.
 
 ### Features list
+
 - Community Participation
 
 ### Report outs
-- Stakeholder Reports
 
+- Stakeholder Reports
 - Conference Presentations / Demonstrations
 
 ### Team members
