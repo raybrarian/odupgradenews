@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+@import url('https://fonts.googleapis.com/css?family=Lato,LatoBold,PT+Serif:400,400i,700,700i');
+
 a { text-decoration: none; }
 a:hover { text-decoration: underline; }
 .footer {display:none;}
@@ -16,7 +18,7 @@ a:hover { text-decoration: underline; }
 }
 
 body {
-  font: normal 16px/1.5 'LatoBold', 'HelveticaNeue', Helvetica, sans-serif;
+  font: normal 16px/1.5 'Lato', 'HelveticaNeue', Helvetica, sans-serif;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   font-weight: normal;
@@ -184,6 +186,10 @@ a {
 }
 
 .markdown-body {
-  font: normal 16px/1.5 'LatoBold', 'HelveticaNeue', Helvetica, sans-serif;
+  font: normal 16px/1.5 'Lato', 'HelveticaNeue', Helvetica, sans-serif;
+  background-color: #fafafa;
+}
 
+.markdown-p {
+  font-family: 'PT Serif', serif;
 }
