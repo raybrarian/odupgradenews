@@ -1,7 +1,7 @@
 ## Oregon Digital Upgrade
 
 ### Context
-A short paragraph with perhaps a [link](http://oregondigital.org) or two.
+A short paragraph with perhaps a [link](http://oregondigital.org) or two may appear anywhere. It may grow into a large paragraph though so be aware of that possibility. Large paragraphs have more text than small paragraphs. Sometimes paragraphs become unwieldy. Some books consist entirely of a single paragraphs. At least one book consists of just a single sentence. No doubt it was a challenge to write and is probably a challenge to read. 
 
 ### Features list
 
