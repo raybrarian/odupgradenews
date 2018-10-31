@@ -8,7 +8,7 @@ Coming soon.
 Check back for more.
 
 - Community Participation
-Coming soon.
+-- Coming soon.
 
 ### Report outs
 
