@@ -1,25 +1,26 @@
 ## Oregon Digital Upgrade
 
-<div class='comingsoon' markdown='1'>
 ### Context
-A short paragraph with perhaps a [link](http://oregondigital.org) or two may appear anywhere. It may grow into a large paragraph though so be aware of that possibility. Large paragraphs have more text than small paragraphs. Sometimes paragraphs become unwieldy. Some books consist entirely of a single paragraph. At least one book in existence consists of just a single long sentence. There is little doubt that it was a challenge to write and that it is probably a challenge to read.
+Coming soon.
+<!--A short paragraph with perhaps a [link](http://oregondigital.org) or two may appear anywhere. It may grow into a large paragraph though so be aware of that possibility. Large paragraphs have more text than small paragraphs. Sometimes paragraphs become unwieldy. Some books consist entirely of a single paragraph. At least one book in existence consists of just a single long sentence. There is little doubt that it was a challenge to write and that it is probably a challenge to read.-->
 
 ### Features list
+Check back for more.
 
 - Community Participation
-</div>
+Coming soon.
 
 ### Report outs
 
-- Stakeholder Reports
+- Stakeholder Reports (July '18, July '18 Revised 11/2, November 15, )
 - Conference Presentations / Demonstrations
+Check back for more.
 
-<div class='comingsoon' markdown='1'>
 ### Team members
-Many at this point.
+Coming soon.
 
 ### High-level roadmap and schedule
-</div>
+Check back for more.
 
 
 <!--section class="intro">
