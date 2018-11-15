@@ -15,7 +15,7 @@ Check back for more.
 - Stakeholder Reports 
 <ul> 
   <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18</a></li>
-  <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18 Revised 11/16 with Success Metrics</a></li>
+  <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18 Revised in November with Success Metrics</a></li>
   <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">November '18</a></li>
 </ul>
 - Conference Presentations / Demonstrations
