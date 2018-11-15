@@ -22,7 +22,7 @@ Check back for more.
 </ul>
 
 ### Conference presentations and demonstrations
-Check back for more.
+[Samvera Connect 2018 Poster](https://drive.google.com/open?id=1pLlzAdKUXhQx9BS92OEqa3mR2fpf7Lhd)
 
 ### Team members
 Coming soon.
