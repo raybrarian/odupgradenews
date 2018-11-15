@@ -4,10 +4,10 @@
 Coming soon.
 <!--A short paragraph with perhaps a [link](http://oregondigital.org) or two may appear anywhere. It may grow into a large paragraph though so be aware of that possibility. Large paragraphs have more text than small paragraphs. Sometimes paragraphs become unwieldy. Some books consist entirely of a single paragraph. At least one book in existence consists of just a single long sentence. There is little doubt that it was a challenge to write and that it is probably a challenge to read.-->
 
-### Features list
+### Features List
 Check back for more.
 
-### Report outs
+### Report Outs
 
 <ul><li>Stakeholder Reports</li> 
 <ul class="columns"> 
@@ -28,13 +28,13 @@ Throughout the Oregon Digital 2 project, the Oregon Digital team will be engagin
 * Possible participation in additional Hyrax Roadmap development efforts
 * Continue allocating FTE to the Hyrax Product Owner
 
-### Conference presentations and demonstrations
+### Conference Presentations and Demonstrations
 [Samvera Connect](https://connect2018.lib.utah.edu/) is the annual worldwide conference for Samvera partners and the community based around Samvera-related software. In October 2018, Oregon Digital sent seven team members and shared a conference [poster](https://drive.google.com/open?id=1pLlzAdKUXhQx9BS92OEqa3mR2fpf7Lhd). Oregon Digital team members Steve van Tuyl, Josh Gum, and Linda Sato presented in conference sessions. 
 
-### Team members
+### Team Members
 Coming soon.
 
-### High-level roadmap and schedule
+### High-Level Roadmap and Schedule
 Check back for more.
 
 
