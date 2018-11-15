@@ -13,10 +13,11 @@ Check back for more.
 ### Report outs
 
 - Stakeholder Reports 
--- [July '18](https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE)
--- [July '18 Revised 11/2](https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE)
--- [Nov '18](https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE))
-
+<ul> 
+  <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18</a></li>
+  <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18 Revised 11/16 with Success Metrics</a></li>
+  <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">November '18</a></li>
+</ul>
 - Conference Presentations / Demonstrations
 
 Check back for more.
