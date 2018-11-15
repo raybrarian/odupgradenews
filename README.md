@@ -13,7 +13,7 @@ Check back for more.
 ### Report outs
 
 <ul><li>Stakeholder Reports</li> 
-<ul> 
+<ul class="columns"> 
   <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18</a></li>
   <li><a href="https://drive.google.com/open?id=11jK9G_HjiHtcHuRKwQFscnnmwDbUS5yh">July '18 Revised in November with Success Metrics</a></li>
   <li><a href="https://drive.google.com/open?id=1ls2P0vurnagOWUwXs5RQFMwrIiEcpVys">November '18</a></li>
