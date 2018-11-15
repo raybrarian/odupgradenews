@@ -17,9 +17,13 @@ Check back for more.
   <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18</a></li>
   <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18 Revised in November with Success Metrics</a></li>
   <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">November '18</a></li>
+  <li>January '19</li>
+  <li>April '19</li>
+  <li>July '19</li>
+  <li>October '19</li>
 </ul>
-- Conference Presentations / Demonstrations
 
+### Conference Presentations / Demonstrations
 Check back for more.
 
 ### Team members
@@ -27,6 +31,7 @@ Coming soon.
 
 ### High-level roadmap and schedule
 Check back for more.
+
 
 
 <!--section class="intro">
