@@ -7,9 +7,6 @@ Coming soon.
 ### Features list
 Check back for more.
 
-- Community Participation
--- Coming soon.
-
 ### Report outs
 
 <ul><li>Stakeholder Reports</li> 
@@ -24,7 +21,7 @@ Check back for more.
 </ul>
 </ul>
 
-### Conference Presentations / Demonstrations
+### Conference presentations and demonstrations
 Check back for more.
 
 ### Team members
