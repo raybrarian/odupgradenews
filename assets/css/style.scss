@@ -32,7 +32,12 @@ body {
   color: silver;
 }
 
-
+ul.columns {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
 
 /* INTRO SECTION
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
