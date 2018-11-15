@@ -12,7 +12,7 @@ Check back for more.
 
 ### Report outs
 
-- Stakeholder Reports 
+<ul><li>Stakeholder Reports</li> 
 <ul> 
   <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18</a></li>
   <li><a href="https://drive.google.com/open?id=11jK9G_HjiHtcHuRKwQFscnnmwDbUS5yh">July '18 Revised in November with Success Metrics</a></li>
@@ -21,6 +21,7 @@ Check back for more.
   <li>April '19</li>
   <li>July '19</li>
   <li>October '19</li>
+</ul>
 </ul>
 
 ### Conference Presentations / Demonstrations
