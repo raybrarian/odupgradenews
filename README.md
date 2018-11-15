@@ -21,6 +21,13 @@ Check back for more.
 </ul>
 </ul>
 
+### Samvera Community Engagement
+Throughout the Oregon Digital 2 project, the Oregon Digital team will be engaging with the Samvera Community to meet Oregon Digital 2 project needs and to help propel the community (and specifically Hyrax) forward. To this end, we anticipate participating in the following activities at the community level:
+* Participation in community development efforts to implement Hyrax on Valkyrie
+* Participate in development of bulk roundtripping of data functionality on Hyrax (bulk upload, edit, download)
+* Possible participation in additional Hyrax Roadmap development efforts
+* Continue allocating FTE to the Hyrax Product Owner
+
 ### Conference presentations and demonstrations
 [Samvera Connect](https://connect2018.lib.utah.edu/) is the annual worldwide conference for Samvera partners and the community based around Samvera-related software. In October 2018, Oregon Digital sent seven team members and shared a conference [poster](https://drive.google.com/open?id=1pLlzAdKUXhQx9BS92OEqa3mR2fpf7Lhd). Oregon Digital team members Steve van Tuyl, Josh Gum, and Linda Sato presented in conference sessions. 
 
