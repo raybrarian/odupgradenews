@@ -1,8 +1,7 @@
 ## Oregon Digital Upgrade
 
 ### Context
-Coming soon.
-<!--A short paragraph with perhaps a [link](http://oregondigital.org) or two may appear anywhere. It may grow into a large paragraph though so be aware of that possibility. Large paragraphs have more text than small paragraphs. Sometimes paragraphs become unwieldy. Some books consist entirely of a single paragraph. At least one book in existence consists of just a single long sentence. There is little doubt that it was a challenge to write and that it is probably a challenge to read.-->
+[Oregon Digital](https://oregondigital.org) is a powerful example of institutional collaboration making digital collections openly available for viewing and reuse for users at our institutions and around the world. By joining forces, [Oregon State University Libraries and Press](https://library.oregonstate.edu) and [University of Oregon Libraries](https://library.uoregon.edu) have created a significantly more innovative and robust program than would have been possible individually. Through our joint partnership with the Samvera (formerly Hydra) community, we have been able to leverage the strength and promise of open source. Oregon Digital is built with components developed by and for our communities and we continue to give back by participating in Samvera leadership, task forces, and interest groups and joining community sprints. We are excited to continue our collaboration as we move Oregon Digital to its next phase and improve it for those who want to discover and use our rich, local, and unique content.
 
 ### Features List
 Check back for more.
@@ -13,7 +12,7 @@ Check back for more.
 <ul class="columns"> 
   <li><a href="https://drive.google.com/open?id=17sGPe318tF41TE-44Ij57hJV1qtzewTE">July '18</a></li>
   <li><a href="https://drive.google.com/open?id=11jK9G_HjiHtcHuRKwQFscnnmwDbUS5yh">July '18 Rev. with Success Metrics</a></li>
-  <li><a href="https://drive.google.com/open?id=1ls2P0vurnagOWUwXs5RQFMwrIiEcpVys">November '18</a></li>
+  <li><!--a href="https://drive.google.com/open?id=1ls2P0vurnagOWUwXs5RQFMwrIiEcpVys"-->November '18<!--/a--></li>
   <li>January '19</li>
   <li>April '19</li>
   <li>July '19</li>
@@ -38,6 +37,8 @@ Coming soon.
 Check back for more.
 
 
+
+<!--A short paragraph with perhaps a [link](http://oregondigital.org) or two may appear anywhere. It may grow into a large paragraph though so be aware of that possibility. Large paragraphs have more text than small paragraphs. Sometimes paragraphs become unwieldy. Some books consist entirely of a single paragraph. At least one book in existence consists of just a single long sentence. There is little doubt that it was a challenge to write and that it is probably a challenge to read.-->
 
 <!--section class="intro">
   <div class="container">
