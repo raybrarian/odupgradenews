@@ -31,7 +31,7 @@ Throughout the Oregon Digital 2 project, the Oregon Digital team will be engagin
 [Samvera Connect](https://connect2018.lib.utah.edu/) is the annual worldwide conference for Samvera partners and the community based around Samvera-related software. In October 2018, Oregon Digital sent seven team members and shared a conference [poster](https://drive.google.com/open?id=1pLlzAdKUXhQx9BS92OEqa3mR2fpf7Lhd). Oregon Digital team members Steve van Tuyl, Josh Gum, and Linda Sato presented in conference sessions. 
 
 ### Team Members
-Coming soon.
+[Team Members list](https://github.com/OregonDigital/OD2/wiki/Team-Members-Info-Page)
 
 ### High-Level Roadmap and Schedule
 Check back for more.
